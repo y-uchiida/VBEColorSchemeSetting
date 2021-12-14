@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Description: uchiidaColorScheme based on OneHalfDark -->
+<VbeTheme name="uchiidaColorScheme" desc="uchiidaColorScheme">
+  <ThemeColors>
+    <Color colorID="1" HexColor="282C34" />
+    <Color colorID="2" HexColor="98C379" />
+    <Color colorID="3" HexColor="56B6C2" />
+    <Color colorID="4" HexColor="98C379" />
+    <Color colorID="5" HexColor="DCDFE4" />
+    <Color colorID="6" HexColor="939599" />
+    <Color colorID="7" HexColor="FDF9AA" />
+    <Color colorID="8" HexColor="6A9955" />
+    <Color colorID="9" HexColor="DCDFE4" />
+    <Color colorID="10" HexColor="E06C75" />
+    <Color colorID="11" HexColor="E5FF7B" />
+    <Color colorID="12" HexColor="C55050" />
+    <Color colorID="13" HexColor="F3B46D" />
+    <Color colorID="14" HexColor="D17AD1" />
+    <Color colorID="15" HexColor="569CD6" />
+    <Color colorID="16" HexColor="939599" />
+  </ThemeColors>
+</VbeTheme>
